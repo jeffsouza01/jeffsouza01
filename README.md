@@ -1,4 +1,4 @@
-<img hight="auto" src="./Jeff.gif">
+<img hight="auto" src="./Jeff.png">
 
  
 ### Hi Everyone :wave: :v:
