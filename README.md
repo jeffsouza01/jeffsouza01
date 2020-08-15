@@ -1,5 +1,3 @@
-<img hight="auto" src="./Jeff.png">
-
  
 ### Hi Everyone :wave: :v:
 <br/>
