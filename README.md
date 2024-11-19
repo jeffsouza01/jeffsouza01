@@ -18,7 +18,7 @@
 <br/>
 <br/> :bulb: In this big world, it's necessary to be able to resolve problems and adapt to many situations throughout life and i want be ready for all challenges what the life give me. :running:
 <br/>
-<br/> :computer: Currently, focused in JavaScript, NodeJS, ReactJS and React Native technologies
+<br/> :computer: Currently, focused in Java and Observability technologies
 
 
 <p>
